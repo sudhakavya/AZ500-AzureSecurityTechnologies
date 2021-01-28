@@ -38,7 +38,6 @@ In this task, you will create a resource group for the lab.
 
 1. Sign-in to the Azure portal **`https://portal.azure.com/`**.
 
-    >**Note**: Sign in to the Azure portal using an account that has the Owner or Contributor role in the Azure subscription you are using for this lab.
 
 1. Open the Cloud Shell by clicking the first icon in the top right of the Azure Portal. If prompted, select **PowerShell** and **Create storage**.
 
