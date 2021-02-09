@@ -42,7 +42,6 @@ In this task, you will create a user account for Joseph Price.
 
 1. Sign-in to the Azure portal **`https://portal.azure.com/`**.
 
-    >**Note**: Sign in to the Azure portal using an account that has the Owner or Contributor role in the Azure subscription you are using for this lab and the Global Administrator role in the Azure AD tenant associated with that subscription.
 
 1. In the **Search resources, services, and docs** text box at the top of the Azure portal page, type **Azure Active Directory** and press the **Enter** key.
 
