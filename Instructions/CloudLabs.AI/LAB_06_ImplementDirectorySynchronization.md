@@ -78,7 +78,7 @@ In this task, you will deploy an Azure VM that will host an Active Directory dom
    |Setting|Value|
    |---|---|
    |Subscription|the name of you Azure subscription|
-   |Resource group|click **Create new** and type the name **AZ500LAB05**|
+   |Resource group|click **Create new** and type the name **AZ500LAB06**|
    |Region|the Azure region you identified in the previous task|
    |Admin Username|**Student**|
    |Admin Password|**Pa55w.rd1234**|

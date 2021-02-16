@@ -85,7 +85,7 @@ In this task, you will create another subnet and enable a service endpoint on th
     |Setting|Value|
     |---|---|
     |Subnet name|**Private**|
-    |Subnet address range|**10.0.1.0/24**|
+    |Subnet address range|**10.1.1.0/24**|
     |Service endpoints|**Microsoft.Storage**|
 
 1. On the **Add subnet** blade, click **OK** to add the new subnet.
@@ -283,7 +283,7 @@ In this task, you will create two virtual machines one in the Private subnet and
     |Setting|Value|
     |---|---|
     |Virtual network|**myVirtualNetwork**|
-    |Subnet|**Private (10.0.1.0/24)**|
+    |Subnet|**Private (10.1.1.0/24)**|
     |Public IP|**(new)myVmPrivate-ip**|
     |NIC network security group|**None**|
 
@@ -318,7 +318,7 @@ In this task, you will create two virtual machines one in the Private subnet and
     |Setting|Value|
     |---|---|
     |Virtual network|**myVirtualNetwork**|
-    |Subnet|**Public (10.0.0.0/24)**|
+    |Subnet|**Public (10.1.0.0/24)**|
     |Public IP|**(new)myVmPublic-ip**|
     |NIC network security group|**None**|
 
